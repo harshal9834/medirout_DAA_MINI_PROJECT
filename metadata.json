@@ -1,0 +1,6 @@
+{
+  "name": "MediRoute AI - Medical Supply Route Optimizer",
+  "description": "Shortest path and logistics optimization for medical supplies and vaccines to hospitals using Dijkstra's Algorithm.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
